@@ -29,4 +29,7 @@ a {
   .selectedBox {
     @apply fixed transition-all shadow-md border dark:border-neutral-700 text-white border-gray-200 flex p-4 bottom-10 items-center mx-auto text-center rounded-md dark:bg-neutral-800 bg-gray-100
   }
+  .tabSelect {
+    @apply inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-neutral-600 hover:border-neutral-300 dark:hover:text-neutral-300
+  }
 }
