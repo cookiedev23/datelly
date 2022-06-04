@@ -16,7 +16,7 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <link
-            href="https://fonts.googleapis.com/css2?family=Lato:wght@200;300;400;500;600;700;800&display=swap"
+            href="https://api.fontshare.com/v2/css?f[]=general-sans@701,200,500,301,201,300,601,600,401,501,400,700&display=swap"
             rel="stylesheet"
           />
           <link

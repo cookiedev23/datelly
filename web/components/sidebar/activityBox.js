@@ -43,7 +43,7 @@ const ActivityBox = () => {
               leaveFrom="transform opacity-100 scale-100"
               leaveTo="transform opacity-0 scale-95"
             >
-              <Menu.Items className="absolute dark:border dark:border-neutral-700 shadow-lg z-50 w-56 top-0 overflow-hidden left-0 right-0 rounded-lg origin-top-left dark:bg-neutral-800 bg-white divide-y dark:divide-neutral-700 divide-gray-200 ring-1 ring-black ring-opacity-10 focus:outline-none">
+              <Menu.Items className="absolute dark:border dark:border-neutral-700 shadow-lg z-50 w-56 top-0 overflow-hidden left-0 right-0 rounded-md origin-top-left dark:bg-neutral-800 bg-white divide-y dark:divide-neutral-700 divide-gray-200 ring-1 ring-black ring-opacity-10 focus:outline-none">
                 <div className="py-1 px-2">
                   <Menu.Item>
                     <div className="flex pointer-events-none mb-1 py-1.5 items-center">
